@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">project200.2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="intro_title">Welcome to <font color="#39c7a5"> Digital Store </font>\n a <font color="#39c7a5"> Gateway </font>to the Latest Tech</string>
+    <string name="intro_sub_tittle">Sign in to explore a wide range of cutting-edge digital product. Don´t have an account yet? Register now and enjoy a seamless and secure shopping experience</string>
+    <string name="signing">Already have a account? <font color="#39c7a5">Sign In</font></string>
+
+    <string name="lorem_ipsum">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices facilisis pellentesque.
+    Vivamus quis ex ligula. Sed congue risus quis dui convallis consequat. Ut mattis odio neque, ut gravida justo laoreet nec.
+    Quisque maximus sed est sit amet imperdiet. Ut vehicula elementum facilisis.
+    Nulla nec lacus a nunc finibus elementum a et erat. Aliquam lacinia auctor urna, tincidunt pulvinar diam tristique eu. Sed sit amet sapien lectus.
+    Suspendisse tincidunt diam nec erat sagittis, non lobortis felis vulputate. Praesent vitae feugiat urna.
+    Fusce luctus neque id metus pharetra pellentesque. Duis eget risus lobortis urna faucibus e
+    lementum quis non tortor. Duis rutrum sapien at massa aliquet, sed blandit leo egestas.\n\n
+    Nullam eu justo at mi tincidunt congue vitae quis urna. Vestibulum vitae est varius, tincidunt erat eget, venenatis lectus. Duis eu augue sed metus volutpat elementum.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut viverra nisi vitae rutrum venenatis.
+    Quisque gravida malesuada imperdiet. Morbi a ligula in enim lacinia condimentum. Etiam sodales diam id facilisis posuere. Mauris mi velit, tincidunt nec elit sit amet,
+    sodales hendrerit erat. Suspendisse vehicula vulputate vulputate.\n\n
+
+    </string>
+    <string name="recommendation">Recommendation</string>
+    <string name="see_all">See all</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My order</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="explorer">Explorer</string>
+    <string name="my_cart">My Cart</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total">Total</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="pay_cash_when_the_medicine_arrives_at_the_destination">Pay Cash When the medicine arrives at the destination</string>
+
+</resources>
+
+
+
